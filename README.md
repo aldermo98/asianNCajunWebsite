@@ -1,6 +1,10 @@
 # Project Overhaul
 ![Logo](https://github.com/sac-iterators/project_overhaul/blob/main/frontend/src/img/logo.jpg)
 
+    Live Demo
+
+        Running live at https://asiancajun2.com/
+
     What was your motivation?
 
         The motivation for this project is to meet CSC 190 and CSC 191 requirement. The project was inspired by our client wanting to do a complete overhaul of their preexisting website for this business. Thus the name project overhaul. The main motivation for project overhaul is to discover new technolgies, implementing a design sought out by our client, and to work for an end goal where both the developers & client are happy with the end product. 
@@ -27,9 +31,7 @@
     
 ### Download Instructions:
 
-    Since our project is a website, you can see it running live by visiting the webpage [insert webpage link here].
-
-    Alternatively, you can run it locally on your machine. To do so, you must install NodeJS and download the source files from this repository.
+    You can run it locally on your machine. To do so, you must install NodeJS and download the source files from this repository.
     
     While in the "frontend" folder, run 'npm install' in the terminal to install all dependenices (if it gives you errors, you may have to restart your machine and try running the command again).
 
